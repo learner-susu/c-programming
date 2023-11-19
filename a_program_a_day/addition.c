@@ -17,7 +17,7 @@ int main(){
     sum = first_number + second_number;
 
 
-    printf("%d is your sum number", sum );
+    printf("%d is your sum number\n", sum );
 
 
     return 0;
