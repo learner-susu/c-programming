@@ -13,9 +13,11 @@ int main(){
     while(n>0){
         reverse_number = reverse_number * 10 + n % 10;
         n = n / 10;
+        
     }
 
-    if(reverse_number == origin_number){
+    if(reverse_number =
+    = origin_number){
         printf("%d is a palendrome number",origin_number);
     }else{
         printf("%d is a not palendrome number",origin_number);
